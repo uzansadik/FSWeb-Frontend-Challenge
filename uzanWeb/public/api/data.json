@@ -128,7 +128,7 @@
       },
       "github": "https://github.com/uzansadik/FSWeb-Frontend-Challenge",
       "img": "/images/project-1.png",
-      "techStacks": ["react", "tailwind", "css"],
+      "techStacks": ["react", "tailwind", "css", "axios"],
       "siteURL": "https://fsweb-s8-challenge-pizza-rose.vercel.app/"
     }
   ]
