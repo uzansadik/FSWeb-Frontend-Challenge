@@ -4,7 +4,10 @@
   "homepage": "Home Page",
   "toggleDarkMode": "Dark Mode",
   "toggleLightMode": "Light Mode",
-  "skils": "Skils",
+  "skills": "Skills",
   "projects": "Projects",
-  "hireMe": "Hire Me"
+  "hireMe": "Hire Me",
+  "profile": "Profile",
+  "aboutMe": "About Me",
+  "viewSite": "View Site"
 }

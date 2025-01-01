@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "tr": {
+      "title": "Yaratıcı düşünen Minimalizm seven",
+      "summary": "Merhaba, ben Sadık. Full Stack yazılım geliştiriciyim. Mükemmel kullanıcı deneyimleriyle sağlam ve ölçeklebilir frontend ürün geliştirici arıyorsanız, benimle çalışmalısınız."
+    },
+    "en": {
+      "title": "Creative thinker Minimalism lover",
+      "summary": "Hi, I’m Sadık. I’m a <b>full-stack developer</b>. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me."
+    }
+  },
+  "skills": {
+    "tr": [
+      {
+        "technology": "ReactJS",
+        "description": "ReactJS kullanarak, modüler ve yeniden kullanılabilir bileşenlerle dinamik web uygulamaları geliştirme konusunda yetkinim. Kullanıcı deneyimini ön planda tutarak modern ve etkileşimli arayüzler oluşturuyorum."
+      },
+      {
+        "technology": "JavaScript",
+        "description": "JavaScript'te derin bilgiye sahibim ve işlevsel, dinamik özellikler geliştirmek için dili etkin bir şekilde kullanıyorum. Modern ES6+ özelliklerini ve framework entegrasyonlarını uygulamalarda kullanıyorum."
+      },
+      {
+        "technology": "GitHub",
+        "description": "GitHub'ı etkili bir versiyon kontrol aracı olarak kullanıyorum. Proje yönetimi, iş birliği ve kodun geçmişini izleme konularında deneyim sahibiyim."
+      },
+      {
+        "technology": "TailwindCSS",
+        "description": "TailwindCSS ile özelleştirilebilir, duyarlı ve şık tasarımlar oluşturuyorum. Bu çerçeveyi kullanarak uygulama arayüzlerini hızlı bir şekilde şekillendirebiliyorum."
+      },
+      {
+        "technology": "Visual Studio Code",
+        "description": "Visual Studio Code'da çeşitli eklenti ve araçlardan faydalanarak üretken bir geliştirme ortamı sağlıyorum. Kod yazma, hata ayıklama ve yapılandırma süreçlerini verimli bir şekilde yönetiyorum."
+      }
+    ],
+    "en": [
+      {
+        "technology": "ReactJS",
+        "description": "I am proficient in developing dynamic web applications using ReactJS, leveraging modular and reusable components. I create modern and interactive interfaces with a strong focus on user experience."
+      },
+      {
+        "technology": "JavaScript",
+        "description": "I have in-depth knowledge of JavaScript and effectively use the language to develop functional and dynamic features. I apply modern ES6+ features and framework integrations in my applications."
+      },
+      {
+        "technology": "GitHub",
+        "description": "I use GitHub as an efficient version control tool. I am experienced in project management, collaboration, and tracking code history."
+      },
+      {
+        "technology": "TailwindCSS",
+        "description": "I create customizable, responsive, and elegant designs using TailwindCSS. This framework enables me to quickly shape application interfaces."
+      },
+      {
+        "technology": "Visual Studio Code",
+        "description": "I ensure a productive development environment in Visual Studio Code by utilizing various extensions and tools. I efficiently manage coding, debugging, and configuration processes."
+      }
+    ]
+  },
+  "profileInformations": {
+    "tr": [
+      {
+        "title": "Doğum Tarihi",
+        "value": "22.09.1993"
+      },
+      {
+        "title": "İkamet Şehri",
+        "value": "Bursa"
+      },
+      {
+        "title": "Eğitim Durumu",
+        "value": "ODTU KK - Mak. Müh Lisan, 2019"
+      },
+      {
+        "title": "Tercih Ettiği Rol",
+        "value": "Full Stack"
+      }
+    ],
+    "en": [
+      {
+        "title": "Birtday",
+        "value": "22.09.1993"
+      },
+      {
+        "title": "City",
+        "value": "Bursa"
+      },
+      {
+        "title": "Education",
+        "value": "ODTU KKK - Mech. Eng. BSc, 2019"
+      },
+      {
+        "title": "Preffered Position",
+        "value": "Full Stack"
+      }
+    ]
+  },
+  "aboutMe": {
+    "tr": "Yazılım geliştirme alanında kariyerime yön vermek için iş arıyorum. Hedefim, öğrendiğim teknolojileri gerçek dünya projelerinde uygulayarak hem bireysel hem de ekip bazlı çalışmalarda değer yaratmak. Öğrenmeye ve kendimi geliştirmeye olan tutkumu, problem çözme becerilerimle birleştirerek, fark yaratan bir yazılım geliştirici olmak istiyorum.",
+    "en": "I am seeking opportunities to shape my career in software development. My goal is to apply the technologies I have learned to real-world projects, creating value both individually and as part of a team. I aim to combine my passion for learning and self-improvement with my problem-solving skills to become a software developer who makes a difference."
+  },
+  "projects": [
+    {
+      "title": "Workingtech",
+      "desc": {
+        "en": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+        "tr": "tr açıklama girilecek.."
+      },
+      "github": "https://github.com/uzansadik/FSWeb-Frontend-Challenge",
+      "img": "/images/project-1.png",
+      "techStacks": ["react", "tailwind", "css"],
+      "siteURL": "https://fsweb-s8-challenge-pizza-rose.vercel.app/"
+    },
+    {
+      "title": "Workingtech",
+      "desc": {
+        "en": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+        "tr": "tr açıklama girilecek.."
+      },
+      "github": "https://github.com/uzansadik/FSWeb-Frontend-Challenge",
+      "img": "/images/project-1.png",
+      "techStacks": ["react", "tailwind", "css"],
+      "siteURL": "https://fsweb-s8-challenge-pizza-rose.vercel.app/"
+    },
+    {
+      "title": "Workingtech",
+      "desc": {
+        "en": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+        "tr": "tr açıklama girilecek.."
+      },
+      "github": "https://github.com/uzansadik/FSWeb-Frontend-Challenge",
+      "img": "/images/project-1.png",
+      "techStacks": ["react", "tailwind", "css"],
+      "siteURL": "https://fsweb-s8-challenge-pizza-rose.vercel.app/"
+    }
+  ]
+}

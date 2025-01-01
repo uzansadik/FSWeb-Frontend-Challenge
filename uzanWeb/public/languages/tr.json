@@ -2,9 +2,12 @@
   "welcome": "merhabalar",
   "exit": "Çıkış",
   "homepage": "Anasayfa",
-  "toggleDarkMode": "Siyah Tema",
+  "toggleDarkMode": "Koyu Tema",
   "toggleLightMode": "Açık Tema",
-  "skils": "Beceriler",
+  "skills": "Yetenekler",
   "projects": "Projeler",
-  "hireMe": "İletişim"
+  "hireMe": "İletişim",
+  "profile": "Profil",
+  "aboutMe": "Hakkımda",
+  "viewSite": "Siteye Git"
 }
